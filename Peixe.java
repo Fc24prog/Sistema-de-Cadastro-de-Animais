@@ -1,4 +1,4 @@
-package priscillaHeranca;
+package  projetoHeranca;
 
 public class Peixe extends Animal 
 {
