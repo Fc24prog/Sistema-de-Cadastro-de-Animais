@@ -1,5 +1,4 @@
-package priscillaHeranca;
-
+package  projetoHeranca;
 public class TestarAnimais {
 	
 	public static void main(String[] args) 
